@@ -1,10 +1,10 @@
 
 # Weather Info for Pincode
 
-This is an REST API appication made using Spring boot that returns weather information for the current day for a pincode.
+This is an REST API application made using Spring boot that returns weather information for the current day for a pincode.
 
 ### Description
-* Used OpenWeather Geocoding API for getting latitide and longitude information.
+* Used OpenWeather Geocoding API for getting latitude and longitude information.
 * Used OpenWeather Current weather data API to get weather details for location.
 * API calls are optimized by using MySql database as a backend.
 ## API Reference
